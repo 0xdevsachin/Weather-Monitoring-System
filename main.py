@@ -45,7 +45,8 @@ def linux():
 	notification.set_image_from_pixbuf(image)
 
 	notification.show()
-	
+# 	To close the notification and with will also save your meomory
+# 	notification.close()
 
 
 
